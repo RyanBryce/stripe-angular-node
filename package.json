@@ -1,0 +1,19 @@
+{
+  "name": "stripe-angular-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanBryce/stripe-angular-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanBryce/stripe-angular-node/issues"
+  },
+  "homepage": "https://github.com/RyanBryce/stripe-angular-node#readme"
+}
